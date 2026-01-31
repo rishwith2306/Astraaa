@@ -70,8 +70,4 @@ If you want to retrain the classifier on your own dataset:
 
 ## Controls
 -   **Q**: Quit the application.
-
-## Troubleshooting
-
--   **Camera not found**: Ensure your webcam is plugged in and not being used by another application (like Zoom or Teams).
--   **Slow Performance**: If running on CPU, performance depends on your processor speed. For faster performance, ensure you have an NVIDIA GPU and install the CUDA version of PyTorch manually before running requirements.
+-   
