@@ -1,6 +1,6 @@
 # Astraa: Gamified Pose Tracker
 
-A real-time AI computer vision application that tracks your body movements using a webcam, classifies exercises, and gamifies your workout experience.
+This real-time AI computer vision model will be embedded into the ASTRAA that to your body movements using a webcam, classify exercises, and gamify your workout experience.
 
 ## Features
 
