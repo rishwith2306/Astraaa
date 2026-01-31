@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+venv_new/
+venv_astraa/
+env/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models (Optional: Comment out if you want to track them)
+# *.pt
+# *.onnx
+# *.pkl
+
+# Datasets (Optional: usually ignored if large)
+# Dataset/

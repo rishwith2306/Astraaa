@@ -1,0 +1,6 @@
+ultralytics
+opencv-python
+pandas
+scikit-learn
+joblib
+numpy
