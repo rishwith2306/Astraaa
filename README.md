@@ -12,7 +12,7 @@ This real-time AI computer vision model will be embedded into the ASTRAA that to
 
 ## Supported Exercises
 
-The system is trained to recognize and count reps for:
+The system is currently trained to recognize and count reps for:
 
 1.  **Squats**
 2.  **Jumping Jacks**
